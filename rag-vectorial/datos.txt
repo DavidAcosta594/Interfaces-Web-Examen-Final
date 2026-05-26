@@ -1,0 +1,8 @@
+La empresa TechValencia fue fundada en 2015 en Valencia, España.
+Ofrecemos servicios de desarrollo web, apps móviles e inteligencia artificial.
+Nuestro horario de atención es de lunes a viernes de 9:00 a 18:00.
+El precio del plan básico es de 29,99€ al mes.
+El plan profesional cuesta 79,99€ al mes e incluye soporte prioritario.
+Para cancelar una suscripción debes ir a Configuración > Suscripción > Cancelar.
+Nuestro email de contacto es info@techvalencia.com.
+Ofrecemos una prueba gratuita de 30 días sin necesidad de tarjeta de crédito.
