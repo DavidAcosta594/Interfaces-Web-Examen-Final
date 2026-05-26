@@ -1,0 +1,22 @@
+[
+    {
+        "pregunta": "¿Cuál es el horario de atención?",
+        "respuesta": "Nuestro horario es de lunes a viernes de 9:00 a 18:00."
+    },
+    {
+        "pregunta": "¿Cuánto cuesta el producto?",
+        "respuesta": "El precio base es de 29,99€ al mes."
+    },
+    {
+        "pregunta": "¿Cómo puedo cancelar mi suscripción?",
+        "respuesta": "Puedes cancelar desde tu panel de usuario en Configuración > Suscripción."
+    },
+    {
+        "pregunta": "¿Ofrecéis soporte técnico?",
+        "respuesta": "Sí, ofrecemos soporte por email y chat en directo."
+    },
+    {
+        "pregunta": "¿Dónde estáis ubicados?",
+        "respuesta": "Nuestra oficina principal está en Valencia, España."
+    }
+]
